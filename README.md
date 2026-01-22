@@ -30,6 +30,11 @@ For example:
 export SLURM_VERSION=24.05.2
 ```
 
+##Install using wget
+```bash
+sudo bash -c "$(wget --no-check-certificate -qO- https://github.com/Sattyam-Kasar/SLURM/blob/main/slurm_install.sh)"
+```
+
 ## How to install with interaction
 
 ```bash
