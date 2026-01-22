@@ -38,10 +38,6 @@ bash slurm_install.sh
 
 or without cloning the git:
 
-```bash
-sudo bash -c "$(wget --no-check-certificate -qO- https://raw.githubusercontent.com/NISP-GmbH/SLURM/main/slurm_install.sh)"
-```
-
 ## How to install without interaction
 
 ```bash
